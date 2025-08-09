@@ -20,7 +20,7 @@ This project is a Netflix clone built using React.js, designed to enhance skills
 - Watched Movies Page
 - Profile Page
 - Play Movie Page
-- Search Movie Page
+- Search Movie Page(SMP)
 
 ## Technologies Used
 - [React.js](https://react.dev/)
